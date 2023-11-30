@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277288976845",
+    "project_id": "penny-wise-2d26a",
+    "storage_bucket": "penny-wise-2d26a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277288976845:android:24156233e11680a32e4484",
+        "android_client_info": {
+          "package_name": "com.example.penny_wise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMgU6qy9jsUyHq6Qf8BYgEsOPPWAkOpDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
